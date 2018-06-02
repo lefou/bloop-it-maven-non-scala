@@ -1,0 +1,1 @@
+Minial Maven Project with scala and non-scala submodules to test `bloopInstall` goal
